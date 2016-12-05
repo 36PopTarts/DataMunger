@@ -1,0 +1,6 @@
+c:\users\lleblanc\documents\visual studio 2012\Projects\DataMunger\DataMunger\bin\Debug\DataMunger.exe.config
+c:\users\lleblanc\documents\visual studio 2012\Projects\DataMunger\DataMunger\obj\Debug\DataMunger.csprojResolveAssemblyReference.cache
+c:\users\lleblanc\documents\visual studio 2012\Projects\DataMunger\DataMunger\bin\Debug\DataMunger.exe
+c:\users\lleblanc\documents\visual studio 2012\Projects\DataMunger\DataMunger\bin\Debug\DataMunger.pdb
+c:\users\lleblanc\documents\visual studio 2012\Projects\DataMunger\DataMunger\obj\Debug\DataMunger.exe
+c:\users\lleblanc\documents\visual studio 2012\Projects\DataMunger\DataMunger\obj\Debug\DataMunger.pdb
